@@ -1,0 +1,13 @@
+channels:
+  - defaults
+  - conda-forge
+  - conda-forge/osx-64
+  - defaults/osx-64
+dependencies:
+  - python
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - seaborn

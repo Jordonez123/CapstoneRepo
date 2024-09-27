@@ -83,6 +83,12 @@ The raw data set contained over 5,000,000 rows that had null values. The strateg
 
 After this, two linear regression models were implemented to predict number of homes sold and median sale price. R^2 values of .75 and .85 were attained.
 
+Further models were used for the two variables above:
+KNN Regression
+Neural Net
+PCA
+
+
 #### Repository 
 
 * `data` 

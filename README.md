@@ -87,7 +87,7 @@ Further models were used for the two variables above:
 KNN Regression
 Neural Net
 PCA
-![What is this](models.png)
+![My models](models.png)
 
 
 #### Repository 

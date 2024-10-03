@@ -4,7 +4,7 @@
 ### Project Overview:
 
 #### Problem Area:
-There are many challenges within the real estate market. We can take a look at the challenges faced by both sides: sellers who are listing new properties and buyers who are looking to acquire new properties. Some of the main problems faced by buyers include: housing affordability, Limited Inventory, Emotional Stress and Decision Fatigue, and Location Constraints. Some of the main problems faced by sellers Unused Inventory, Poor Marketing, and Volatile Markets. Furthermore, the Covid pandemic largely affected both sides of the housing market, creating instability in the median prices of properties. 
+There are many challenges within the real estate market. We can take a look at the challenges faced by both sides: sellers who are listing new properties and buyers who are looking to acquire new properties. Some of the main problems faced by buyers include: housing affordability, limited inventory, emotional stress and decision fatigue, and location constraints. Some of the main problems faced by sellers are unused inventory, poor marketing, and volatile markets. Furthermore, the Covid pandemic largely affected both sides of the housing market, creating instability in the median prices of properties. 
 
 #### Users affected:
 The users in the United States directly affected by this problem are individuals/families that are looking to purchase a property as well as the sellers (in our case interested in the real estate agents) that have listed a new property for sale. 

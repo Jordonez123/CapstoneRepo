@@ -58,24 +58,6 @@ After preprocessing here are the columns of interest:
 | `us_region_Mid-Atlantic`                    | Indicator variable for whether the data applies to the Mid-Atlantic region of the U.S.                                                                |
 | `us_region_Pacific`                         | Indicator variable for whether the data applies to the Pacific region of the U.S.                                                                     |
 | `us_region_South Atlantic`                  | Indicator variable for whether the data applies to the South Atlantic region of the U.S.                                                              |
-
-Let me know if you need any more details or further adjustments to the dictionary!
-### Demo
-
-... Show your work:
-...     Data visualizations
-...     Interactive demo (e.g., `streamlit` app)
-...     Short video of users trying out the solution
-
-
-### Methodology
-
-... High-level diagrams of entire process:
-...     various data processing steps
-...     various modelling directions
-...     various prototyping directions
-
-
 ### Organization
 
 The largest portion of time was allocated to cleaning the data.
@@ -128,5 +110,3 @@ PCA
 ... Google Drive links to datasets and pickled models
 
 ### Credits & References
-
-... Include any personal learning
